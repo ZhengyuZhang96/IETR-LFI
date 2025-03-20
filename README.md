@@ -64,4 +64,4 @@ If you find this work helpful, please consider citing:
 ## Contact
 For some reasons, here we only provide the code of SAB metric with obfuscated pcode files. 
 
-If you want to get the full code, feel free to contact [zhengyuzhang@gzhu.edu.cn](zhengyuzhang@gzhu.edu.cn) and we will send you the full code within 2 days.
+If you want to get the full code, feel free to contact [zhengyuzhang@gzhu.edu.cn](zhengyuzhang@gzhu.edu.cn) and we will send you the full code soon.
