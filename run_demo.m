@@ -5,7 +5,7 @@ addpath('SVR\')
 addpath('code\')
 addpath(genpath('code\fdct_usfft_matlab'));
 
-% load a distorted LFI (ID:R1A1S2) from the ITER-LFI database
+% load a distorted LFI (ID:R1A1S2) from the IETR-LFI database
 dis_img_path = 'Demo_LFI\R1A1S2\';
 dis_LF = uint8(zeros(9,9,434,625,3));
 for x = 1:9
