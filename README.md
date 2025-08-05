@@ -5,7 +5,7 @@ Zhengyu Zhang, Shishun Tian, Jinjia Zhou, Luce Morin, and Lu Zhang.
 Open resources of our TCSVT2025 paper "A New Benchmark Database and Objective Metric for Light Field Image Quality Evaluation". Please refer to our [paper](https://ieeexplore.ieee.org/abstract/document/10735251/).
 
 ### Get access to the IETR-LFI database
-Please download the full database on [Baidu drive](https://pan.baidu.com/s/1ZybR5helpGpvDOy6WJTK7w) (code: GZHU).
+Please download the full database on [Google drive](https://drive.google.com/drive/folders/1GQCl4Ft1UV4waPUYwwcHLjONJeoRh_fv?usp=sharing) or [Baidu drive](https://pan.baidu.com/s/1ZybR5helpGpvDOy6WJTK7w) (code: GZHU).
 
 The database contains 10 reference light field images with 12 distorted versions for each, and their corresponding subjective quality scores.
 
